@@ -11,8 +11,8 @@
 <h2 align="center">📊 Статистика</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksandrgrn&show_icons=true&theme=radical&count_private=true" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrgrn&layout=compact&theme=radical&hide_langs=html,css" alt="languages" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleksandrgrn&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleksandrgrn&layout=compact&theme=radical&hide_langs=html,css&cache_seconds=1800" alt="languages" height="180" />
 </p>
 
 <hr>
