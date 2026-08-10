@@ -11,8 +11,8 @@
 <h2 align="center">📊 Статистика</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=aleksandrgrn&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="stats" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aleksandrgrn&layout=compact&theme=radical&cache_seconds=1800&langs_count=6" alt="languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=aleksandrgrn&show_icons=true&theme=radical&count_private=true" alt="stats" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aleksandrgrn&layout=compact&theme=radical&langs_count=6" alt="languages" height="160" />
 </p>
 
 <hr>
